@@ -1,1 +1,1 @@
-##Trying to create first repository in githubgi
+##Trying to create first repository in github
